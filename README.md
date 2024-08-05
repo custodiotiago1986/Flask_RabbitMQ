@@ -1,5 +1,7 @@
 ## RabbitMQ - Flask Example
 This project demonstrates how to use RabbitMQ with Flask to send and receive messages between two applications. The sender application sends data every 10 seconds, and the receiver application displays this data in a web interface.
+![image](https://github.com/user-attachments/assets/3e3b308f-28a8-4a9c-97f1-c8c664f7cc71)
+
 
 ### Dependencies
 Ensure you have the following dependencies installed:
